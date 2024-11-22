@@ -1,0 +1,24 @@
+QUESTION1:List out the features of html5.
+Answer:
+1) Form Improvement : HTML5 has introduced improvements to forms, 
+new input like time, date and color as well as new attributes such
+as required and autofocus.
+
+2) Canvas element : Html5 has introduced the <canvas> element which 
+provide the dynamic and interactive graphics to be created and 
+manipulated within the page.
+
+3) Semantic tags : Html5 has introduced Semantic tags like <header>
+<article>,<footer>,<nav> which makes easier to structure and organize
+content on a web page.
+
+4) Multimedia support : HTML5 has improved the Multimedia support,It
+allows for the integration of multimedia elements like audio and
+video directly into the webpage without any plugin
+
+5) Accessibility : HTML5 provides better support for accessibility,
+like providing alternative text for images and improved supports for
+screen recorders.
+
+6) Geolocation API -HTML5 provides an API obtaining the user location
+enabling web application to offer location-based services.
